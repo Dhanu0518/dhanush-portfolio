@@ -9,8 +9,8 @@ export default function Contact() {
       <div ref={ref} className={`contact-box reveal${inView ? " in" : ""}`}>
         <div className="contact-title display">Let's work together</div>
         <p className="contact-sub">
-          Open to Senior Frontend Engineer roles in Bengaluru and remote. Reach
-          out directly — I reply fast.
+          Open to Frontend Engineer roles in Bengaluru and remote. Reach out
+          directly — I reply fast.
         </p>
         <div className="contact-links">
           <a href={`mailto:${PROFILE.email}`} className="btn btn-primary">

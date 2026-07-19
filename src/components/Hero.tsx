@@ -26,9 +26,9 @@ export default function Hero() {
             products.
           </h1>
           <p className="hero-sub">
-            Senior Frontend Engineer with <b>3+ years</b> specializing in
-            React.js, TypeScript, and enterprise authentication — Azure AD SSO,
-            RBAC, and scalable state architecture with Redux Toolkit.
+            Frontend Engineer with <b>3+ years</b> specializing in React.js,
+            TypeScript, and enterprise authentication — Azure AD SSO, RBAC, and
+            scalable state architecture with Redux Toolkit.
           </p>
           <div className="btn-row">
             <a href="#contact" className="btn btn-primary">
